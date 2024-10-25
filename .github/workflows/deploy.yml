@@ -39,6 +39,6 @@ jobs:
         with:
           project: "aquareef-backend-pilot"
           entrypoint: "./src/index.js"
-          root: ""
+          root: "."
           
           
